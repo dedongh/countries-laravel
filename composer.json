@@ -32,7 +32,7 @@
     
         "psr/simple-cache": "^3.0",
         "pragmarx/coollection": "^0.8",
-        "pragmarx/countries": "dev-master"
+        "pragmarx/countries": ">=0.5.8"
     },
 
     "require-dev": {
@@ -42,12 +42,6 @@
         "colinodell/json5": "^1.0",
         "gasparesganga/php-shapefile": "^2.3"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/dedongh/countries.git"
-        }
-    ]
 
     "autoload": {
         "psr-4": {
